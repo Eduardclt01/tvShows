@@ -22,4 +22,4 @@ npm run build
 npm run lint
 ```
 ### Node version
-v14.18.3 (or heigher )
+v14.18.3 (or higher)
